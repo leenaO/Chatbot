@@ -16,7 +16,9 @@ To create a chatbot model we need to:
    
    this is mine:
    
-   ![chatbot_model](https://user-images.githubusercontent.com/46565265/124642039-07ab6380-de98-11eb-886b-cff16c9f0b23.png)
+   https://user-images.githubusercontent.com/46565265/124645822-90c49980-de9c-11eb-8109-a6d4f1c0242a.mov
+   
+   
    
 
 
