@@ -1,0 +1,40 @@
+{"intents": [
+        {"tag": "greeting",
+                "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up" , "Good morning" , "Good evening" , "hello" , "hey" , "what's up"],
+                "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?"],
+                "context_set": ""
+               },
+        {"tag": "goodbye",
+                "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day","bye","i have to go","gotta go"],
+                "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+                "context_set": ""
+        },
+        {"tag": "thanks",
+         "patterns": [ "Thanks","Thank you","thank you"],
+         "responses": ["you're welcome, can you rate the service out of five please!"],
+         "context_set": ""
+        },
+        {"tag": " excellent rating",
+         "patterns": ["five","5"],
+         "responses": ["thank you "],
+         "context_set": ""
+        },
+        {"tag": "not good enough",
+                "patterns": ["Four","Three","two","one","4","3","2","1"],
+                "responses": ["we're sorry for that, we will optimize the service next time!"],
+                "context_set": ""
+               },
+        {"tag": "help",
+                "patterns": ["Id like to ask something", "what can you do", "can you help me?", "can i tell you something"],
+                "responses": ["I'm here to help you!", "I can help you with whatever you tell me to."],
+                "context_set": ""
+        },
+        
+        {"tag": "services",
+                "patterns": ["where is the stairs","stairs","can you tell me where is the stairs","can you teel me where is the stairs, please"],
+                "responses": ["you can turn right to find it"],
+                "context_set": ""
+        }
+        
+   ]
+}
