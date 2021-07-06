@@ -13,7 +13,10 @@ To create a chatbot model we need to:
    
    see the code above for more details, and try to make your own chatbot!
    
+   
    this is mine:
+   
+   ![chatbot_model](https://user-images.githubusercontent.com/46565265/124642039-07ab6380-de98-11eb-886b-cff16c9f0b23.png)
    
 
 
